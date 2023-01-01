@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "141837970566",
+    "project_id": "votelin-44ea1",
+    "storage_bucket": "votelin-44ea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141837970566:android:b3e1703fea402325c9f507",
+        "android_client_info": {
+          "package_name": "com.utilman.votelin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141837970566-3aaivicloidkfk9l7b2mr00l9ei7lfgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utilman.votelin",
+            "certificate_hash": "3a646da142818a2a51f5c29f3b0aac0be83062e1"
+          }
+        },
+        {
+          "client_id": "141837970566-sqjpdn6q44p167h3v6epprl4usi5lbl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMRYpMMr-VWc6c3oH3OU8Iy2dYCKxCzRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141837970566-sqjpdn6q44p167h3v6epprl4usi5lbl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

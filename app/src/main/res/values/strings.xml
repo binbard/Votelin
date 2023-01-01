@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Votelin</string>
+    <!-- Strings related to login -->
+    <string name="appreciate">Appreciate</string>
+    <string name="login_btn">Login</string>
+    <string name="phone_hint">Phone Number</string>
+    <string name="input_otp">Input OTP</string>
+    <string name="password_hint">Password</string>
+    <string name="next">Next</string>
+    <string name="signup_btn">Signup</string>
+    <string name="login">Login</string>
+    <string name="secure_login">Secure Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be > 5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- Strings related to main -->
+    <string name="home_text">Home</string>
+</resources>
